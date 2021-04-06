@@ -1,0 +1,70 @@
+{
+  "project_info": {
+    "project_number": "705396014780",
+    "firebase_url": "https://thepakvoice-25ba6.firebaseio.com",
+    "project_id": "thepakvoice-25ba6",
+    "storage_bucket": "thepakvoice-25ba6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705396014780:android:0ec74f84030c86039adab9",
+        "android_client_info": {
+          "package_name": "com.FSMobileApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "705396014780-q2effgl22b68ksdas4p14d8b0s9hq55q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_PTvbOLj9AzOQf1ff_IurtTcag0L1lbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "705396014780-q2effgl22b68ksdas4p14d8b0s9hq55q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705396014780:android:8687b947c083c7e9",
+        "android_client_info": {
+          "package_name": "com.thepakvoice.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "705396014780-q2effgl22b68ksdas4p14d8b0s9hq55q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_PTvbOLj9AzOQf1ff_IurtTcag0L1lbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "705396014780-q2effgl22b68ksdas4p14d8b0s9hq55q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-8957731124546988~5774146950"
+    }
+  ],
+  "configuration_version": "1"
+}
